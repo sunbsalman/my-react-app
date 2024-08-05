@@ -14,7 +14,7 @@ function App() {
 
   return (
     <div>
-      <h1>To-Do List</h1>
+      <h1>My Shop List</h1>
       <input
         type="text"
         value={inputValue}
